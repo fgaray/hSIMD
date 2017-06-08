@@ -1,13 +1,13 @@
 name:                simd-test
 version:             0.1.0.0
-synopsis:            Simple project template from stack
+synopsis:            Simple eDSL to write SIMD
 description:         Please see README.md
-homepage:            https://github.com/githubuser/simd-test#readme
+homepage:            https://github.com/fgaray/hSIMD
 license:             BSD3
 license-file:        LICENSE
-author:              Author name here
-maintainer:          example@example.com
-copyright:           2016 Author name here
+author:              Felipe Garay
+maintainer:          felipe.garay@usach.cl
+copyright:           2017 Felipe Garay
 category:            Web
 build-type:          Simple
 cabal-version:       >=1.10
